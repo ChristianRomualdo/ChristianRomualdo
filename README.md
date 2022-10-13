@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Christian Romualdo and want to become a software developer. I'm passionate about software and I would like to leard as many technologys as possible 
+- 👋 Hi, I’m @Christian Romualdo and I want to become a software developer. I'm passionate about software and I would like to leard as many technologys as possible 
 - 👀 I’m interested in the web development.
 - 🌱 I’m currently learning CSS,software Engineering.
 
